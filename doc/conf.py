@@ -1,4 +1,4 @@
-project = 'hulutv'
+project = 'hulu tv'
 author = 'Your Name'
 release = '1.0'
 
